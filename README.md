@@ -1,1 +1,1 @@
-# Human-Powered-vehicle-idlerpulley-
+# Human-Powered-vehicle-idlerpulley- It is the idler pulley assembly design used in guiding the chain, which is tyhe drive train mechanism used in this human powered vehicle design. It consists of two pulleys which help in maintaining the tension all along the drive way of the chain, as the chain is quite lengthy in order to drive the rear wheel with pedals at front.
